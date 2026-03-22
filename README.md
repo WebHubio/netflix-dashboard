@@ -1,7 +1,6 @@
 # 📊 Netflix Dashboard (Power BI)
 
-This project is an interactive Power BI dashboard created using a Netflix dataset to analyze and visualize content trends.  
-It provides insights into genres, release years, and ratings through clear and engaging visualizations.
+This project is a Power BI dashboard built using Netflix dataset to analyze trends and insights.
 
 ---
 
@@ -10,11 +9,9 @@ It provides insights into genres, release years, and ratings through clear and e
 
 ---
 
-## 🚀 Features
-- Visualizes Netflix content distribution
-- Analyzes genres and categories
-- Shows trends based on release years
-- Displays ratings and insights
+## 📂 Files
+- netflix_dashboard.pbix → Power BI file
+- dashboard.png → Dashboard preview
 
 ---
 
@@ -24,23 +21,17 @@ It provides insights into genres, release years, and ratings through clear and e
 
 ---
 
-## 📂 Files
-- dashboard.png → Dashboard preview  
-- netflix_dashboard.pbix → Power BI file  
-
----
-
 ## 📌 Description
-The dashboard helps in understanding Netflix content patterns by analyzing:
-- Genre distribution  
-- Year-wise trends  
-- Ratings and categories  
+This dashboard shows insights such as:
+- Content distribution
+- Genre analysis
+- Ratings and trends
 
 ---
 
 ## ▶️ How to Use
-1. Download the `.pbix` file  
-2. Open it in Power BI Desktop  
+1. Download the .pbix file  
+2. Open in Power BI Desktop  
 3. Explore the dashboard  
 
 ---
